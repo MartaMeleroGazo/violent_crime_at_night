@@ -6,11 +6,9 @@ parameters of the model in each of these scenarios.
 
 ##Installation
 
-- make sure you have python version 
-- run the file  requirements.txt 
-
-$ pip install -r https://raw.githubusercontent.com/projectmesa/mesa/master/examples/boltzmann_wealth_model/requirements.txt
-
+- Make sure you have and are using Python version 3 or above to run this project. 
+- In your directory, travel to the project folder _individual_project_code_ and  
+using the command line run the command: `pip install -r  requirements.txt `
 
 ##Single Run
 
