@@ -7,7 +7,7 @@ parameters of the model in each of these scenarios.
 ##Installation
 
 - Make sure you have and are using Python version 3 or above to run this project. 
-- In your directory, travel to the project folder _individual_project_code_ and  
+- In your directory, travel to the project folder _marta_melerogazo_PRJ21_ and  
 using the command line run the command: `pip install -r  requirements.txt `
 
 ##Single Run
